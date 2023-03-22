@@ -1,0 +1,22 @@
+{
+  "name": "@tinsaedev/treeselect",
+  "version": "0.1.0",
+  "description": "React MUI component that combines the benefit of Select and Tree components.",
+  "main": "index.js",
+  "repository": "git@github.com:tinsaeDev/react-mui-tree-select.git",
+  "author": "Tinsae B. <tinsaedev@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "keywords": ["MUI", "React", "Select","Tree","Tree Select"],
+  "homepage": "https://github.com/tinsaeDev/react-mui-tree-select",
+  "bugs": "https://github.com/tinsaeDev/react-mui-tree-select/issues",
+  "contributors": [
+    "Tinsae Belay <tinsaedev@gmail.com> (https://github.com/tinsaeDev)"
+  ],
+  "files": ["index.js"],
+
+
+  "dependencies": {
+    "@mui/material": "^5.11.14"
+  }
+}
